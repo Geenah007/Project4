@@ -5,10 +5,10 @@ This project focuses on Power BI (Business Intelligence). The benefits of using 
 
 How a user could use the report:
 
-- The High-Level Metrics assists a user to understand what how many units there are in stock to see which products and which brands are boought more than others. This helps in planning for future restocking purposes and possible cancellation of products or brands that are not bought enough to make a profit.
+- The High-Level Metrics assists a user to understand how many units there are in stock to see which products and which brands are boought more than others. This helps in planning for future restocking purposes and possible cancellation of products or brands that are not bought enough to make a profit.
 
-    - The number of custimers per month also assists in knowing which months are more buys and profitable. In months where there is a high number of customers, one could deduce         that there may be a new trend that people are folloeing or a brand that is in fashion, therefore more people want to buy this brand or product. This could also help to see if      there is a season for certain products.
-    - The discounts that are also indicated on this page will assist you to see that produts that are bought more often are the ones with higher discounts. This could indicate           that the owners are satisfied with the profit that these products yield. This could help the owners restrategise how they go about selling or marketing the other products.
+    - The number of customers per month also assists in knowing which months are more bought and are profitable. In months where there is a high number of customers, one could deduce that there may be a new trend that people are following or a brand that is in fashion, therefore more people want to buy this brand or product. This could also help to see if there is a season for certain products.
+    - The discounts that are also indicated on this page will assist you to see that produts that are bought more often are the ones with higher discounts. This could indicate           that the owners are satisfied with the profit that these products yield. This could help the owners restrategise how they go about selling or marketing the other products that are not selling well or being ordered.
  
 -The Order Monitoring page shows how many products are ordered by Product name, how many customers are ordering products and how many orders are received per month.
 
