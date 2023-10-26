@@ -19,12 +19,12 @@ How a user could use the report:
 
 
 Reference List:
+
 https://www.knowledgehut.com/blog/business-intelligence-and-visualization/power-bi-advantages-benefits
 
 https://www.techtarget.com/searchcontentmanagement/definition/Microsoft-Power-BI
 
 https://powerbi.microsoft.com/en-za/what-is-power-bi/
-
 
 https://powerbi.microsoft.com/en-us/power-bi-and-azure/
 
