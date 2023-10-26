@@ -19,4 +19,17 @@ How a user could use the report:
 
 
 Reference List:
+https://www.knowledgehut.com/blog/business-intelligence-and-visualization/power-bi-advantages-benefits
+
+https://www.techtarget.com/searchcontentmanagement/definition/Microsoft-Power-BI
+
+https://powerbi.microsoft.com/en-za/what-is-power-bi/
+
+
+https://powerbi.microsoft.com/en-us/power-bi-and-azure/
+
+https://docs.microsoft.com/en-us/learn/modules/introduction-power-bi/
+
+https://spreadsheeto.com/power-bi-best-practices/#:~:text=1 Put first things first. This one is,with numeric data%2C use integers instead of strings)https://www.knowledgehut.com/blog/business-intelligence-and-visualization/power-bi-advantages-benefits
+
 
