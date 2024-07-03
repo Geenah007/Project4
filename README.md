@@ -32,8 +32,5 @@ https://docs.microsoft.com/en-us/learn/modules/introduction-power-bi/
 
 https://spreadsheeto.com/power-bi-best-practices/#:~:text=1 Put first things first. This one is,with numeric data%2C use integers instead of strings)https://www.knowledgehut.com/blog/business-intelligence-and-visualization/power-bi-advantages-benefits
 
-https://www.youtube.com/watch?v=HrPipzMA5gk&t=447s Introduction Class Video 
-
-https://www.youtube.com/watch?v=gv58fGGgRQs Class video 12 October 2023
 
 
