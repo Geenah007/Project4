@@ -1,4 +1,4 @@
-# Project_5_29628784
+# Project5
 
 This project focuses on Power BI (Business Intelligence). The benefits of using this is being able to create machine learning models, easy integration with Azure Machine Learning. It also assists one to better understand an organization's data in a visual sense.
 
